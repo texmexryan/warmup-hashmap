@@ -28,7 +28,7 @@ public class Application {
                 count++;
 
 
-                System.out.println("You have added string: " + count + " times");
+                System.out.println(s + " was added: " + count + " times");
 
                 names.put(s, count);
             }else{
